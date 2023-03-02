@@ -1,5 +1,5 @@
 <h1 align="center">
-AWS CloudFormation - Workshop
+AWS CloudFormation
 <br>
     <a href="https://cfn101.workshop.aws"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fcfn101.workshop.aws"></a>
     <a href="https://github.com/aws-samples/cfn101-workshop/actions"><img alt="GitHub Workflow Status" src="https://github.com/aws-samples/cfn101-workshop/workflows/Unit%20Tests/badge.svg"></a>

@@ -5,8 +5,7 @@ AWS CloudFormation - Workshop
     <a href="https://github.com/aws-samples/cfn101-workshop/actions"><img alt="GitHub Workflow Status" src="https://github.com/aws-samples/cfn101-workshop/workflows/Unit%20Tests/badge.svg"></a>
 </h1>
 
-This repository provides all the resources referenced in the [CloudFormation](https://cfn101.workshop.aws/) workshop as
-well as the code used to build it.
+This repository provides all the resources as well as the code used to build it.
 
 ## Usage
 1. Clone the repository to your working directory or Download the ZIP file from GitHub.
